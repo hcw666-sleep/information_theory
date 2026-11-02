@@ -1,1 +1,1 @@
-目录下文件介绍："An experimental information-theoretic....links.pdf"是我们要加以研究的信息论相关的论文，论文符合性核查是
+目录下文件介绍："An experimental information-theoretic....links.pdf"是我们要加以研究的信息论相关的论文，论文符合性核查.md是前期寻找论文的结论文档
